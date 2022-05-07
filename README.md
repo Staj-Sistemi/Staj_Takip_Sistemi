@@ -72,8 +72,6 @@ Staj sisteminin dijitalleşmesi ile;
 ### Backend İçin Kullanılacak Yazılım Teknolojileri
 - NodeJs
 	- Node.js, açık kaynaklı, sunucu tarafında çalışan ve ağ bağlantılı uygulamalar için geliştirilmiş bir çalıştırma ortamıdır. Node.js uygulamaları genelde istemci tarafı betik dili olan JavaScript kullanılarak geliştirilir. Node.js, Google V8 JavaScript motorunu kullanarak betik dilini yorumlar ve içerisinde standart olarak dağıtılan kütüphaneler sayesinde ek bir sunucu yazılımına (Apache HTTP Sunucusu, Nginx, IIS vs.) gerek kalmadan uygulamanın Web sunucusu görevini görür.
-- MySQL 
-	- MySQL, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir.
 
 ### Frontend İçin Kullanılacak Yazılım Teknolojileri
 - HTML
@@ -84,6 +82,11 @@ Staj sisteminin dijitalleşmesi ile;
  
 - Node.Js
 
+### Veri Tabanı İçin Kullanılacak Yazılım Teknolojileri
+
+- MySQL 
+	- MySQL, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir.
+	
 ### Proje Geliştirmede Benimsenen Yazılım Geliştirme Sürecini Anlatma
 
 Biz ekip olarak Agile Software Development metodolojilerinden Scrum'ı kullanmaya karar verdik. Gereksinimleri açıkça belirli olmayan, değişime açık, karmaşık yazılım projelerinin yönetimi için uygulanması en idealidir. Düzenli geri bildirim ve kısa dönemli planlamalar ile hedefe ulaşmayı sağlar.                                                    
