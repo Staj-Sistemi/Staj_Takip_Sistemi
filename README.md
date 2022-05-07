@@ -28,9 +28,9 @@ Staj sisteminin dijitalleşmesi ile;
 
 ### Takım Üyeleri Ve Yetkinlikleri
 - Aslıhan Akbulut
-- - Programlama Dili: PHP, JS 
-Web tasarımı: HTML, CSS
-Veri Tabanı: MYSQL
+	- Programlama Dili: PHP, JS 
+	- Web tasarımı: HTML, CSS
+	- Veri Tabanı: MYSQL
 
 Beyzanur Gürses
 Programlama Dili: PHP, JS 
