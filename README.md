@@ -84,3 +84,16 @@ Staj sisteminin dijitalleşmesi ile;
  
 - Node.Js
 
+### Proje Geliştirmede Benimsenen Yazılım Geliştirme Sürecini Anlatma
+
+Biz ekip olarak Agile Software Development metodolojilerinden Scrum'ı kullanmaya karar verdik. Gereksinimleri açıkça belirli olmayan, değişime açık, karmaşık yazılım projelerinin yönetimi için uygulanması en idealidir. Düzenli geri bildirim ve kısa dönemli planlamalar ile hedefe ulaşmayı sağlar.                                                    
+Scrum’da üç faz bulunur.
+
+- Taslak Planlama: projenin genel amaçları belirlenir ve tasarımı yapılır.
+Projemiz için gereksinim analizleri yapıldı. Yapılan analizler sayesinde, hikaye kartları ve kullanım kılavuzu oluşturuldu. Bu dokümanları kullanarak ürünümüzün tanıtımı ve sayfa tasarımları yapıldı.
+
+- Hızlı Koşma Döngüsü: her döngüde sistemin bir artışı gerçekleştirilir.
+Ekip üyelerimizin yetkinliklerine göre görev dağılımı yapıldı. Ekip üyelerimize verilen görevler için Sprint zamanı belirlendi. Bu süre sonunda yapılan işler gözden geçirilir ve gidişat değerlendirilir. Proje geliştirme sürecine uymayan herhangi bir hata mevcut ise bu noktada düzeltilir. Hata mevcut değilse bir sonraki Sprint planlanır.
+
+- Proje Kapatma: proje toparlanır, gerekli dokümanlar (yardım dokümanı, kullanma kılavuzu, vb.) tamamlanır, projeden öğrenilen dersler değerlendirilir.
+
