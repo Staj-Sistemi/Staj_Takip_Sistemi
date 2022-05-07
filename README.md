@@ -80,4 +80,6 @@ Staj sisteminin dijitalleşmesi ile;
 
 - CSS
 	- CSS, HTML'e ek olarak metin ve format biçimlendirme alanında fazladan olanaklar sunan bir işaretleme dilidir. Bu tekniğin en önemli özelliği kullanımındaki esnekliktir. Bir Web sayfası içerisinde birbiriyle uyumlu birkaç renk ve birkaç yazı tip kullanılır ve bunları her sayfada ayrı ayrı tekrar belirtmek yerine CSS yardımıyla bir sefer tanımlayıp bütün Web sayfalarında ortak olarak kullanılabilir. Böylece sayfaların hafızadaki boyutu epey küçüldüğü gibi güncelleme yapmak da kolaylaşır.
+ 
+- Node.Js
 
