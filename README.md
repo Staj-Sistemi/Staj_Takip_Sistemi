@@ -40,7 +40,7 @@ Staj sisteminin dijitalleşmesi ile;
 - Elanur Başaran
 	- Programlama Dili: JS, PHP, Node.js
 	- Web Tasarımı: HTML, CSS
-	-Veri Tabanı: MYSQL, POSTGRESQL
+	- Veri Tabanı: MYSQL, POSTGRESQL
 
 - İrem Sertel
 	- Programlama Dili: PHP, JS 
