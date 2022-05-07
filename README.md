@@ -62,7 +62,7 @@ Staj sisteminin dijitalleşmesi ile;
 - Beyzanur Gürses: Firma Frontend, Dokümantasyon
 - Elanur Başaran: Staj Sorumlusu Backend, Dokümantasyon
 - İrem Sertel: Öğrenci Backend-Frontend,Dokümantasyon
-- Kaan Sertel: Öğrenci Frontend,Dokümantasyon
+- Kaan Sertel: Öğrenci Backend-Frontend,Dokümantasyon
 - Nazlı Tuğba Gürsoy: Veritabanı Tasarımı, Dokümantasyon
 - Ömer Şahin: Firma Backend, Dokümantasyon
 
