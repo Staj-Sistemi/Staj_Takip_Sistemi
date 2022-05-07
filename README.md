@@ -1,16 +1,10 @@
 # Staj Takip Sistemi
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/de/62/f1/de62f1d27616b46d59b8be22bc059bf7.jpg" width="200" />
+  <img src="https://i.pinimg.com/originals/de/62/f1/de62f1d27616b46d59b8be22bc059bf7.jpg" width="200" />  
+</p>
   
-  
-## STAJ TAKİP SİSTEMİ
- 
-
-
-
-### EKİP ÜYELERİ
-
+### Ekip Üyeleri
 - Aslıhan Akbulut
 - Beyzanur Gürses
 - Elanur Başaran
@@ -19,5 +13,58 @@
 - Nazlı Tuğba Gürsoy
 - Ömer Şahin
 
-  
-</p>
+### Proje Amacı
+
+Üniversite, öğrenci ve firma arasında iletişim sağlanarak her bir paydaşın staj işlemlerini dijitalleştirilebilmesini sağlamaktır.
+
+
+###  Proje Hedefleri
+Staj sisteminin dijitalleşmesi ile;
+- İş yükünün azaltılması
+- Yapılacak işlemlerin kısa sürede ve verimli bir şekilde gerçekleşmesi
+- Staj değerlendirmelerinin daha güvenli hale gelmesi
+- Tek bir sistem üzerinde üniversitelerin farklı firmalar ile irtibata geçmesi gibi hedefler yer almaktadır.
+
+
+### Takım Üyeleri Ve Yetkinlikleri
+- Aslıhan Akbulut
+- - Programlama Dili: PHP, JS 
+Web tasarımı: HTML, CSS
+Veri Tabanı: MYSQL
+
+Beyzanur Gürses
+Programlama Dili: PHP, JS 
+Web tasarımı: HTML, CSS
+Veri Tabanı: MYSQL
+
+Elanur Başaran
+Programlama Dili: JS, PHP
+Web Tasarımı: HTML, CSS
+Veri Tabanı: MYSQL, POSTGRESQL
+
+İrem Sertel
+		Programlama Dili: PHP, JS 
+Web tasarımı: HTML, CSS
+Veri Tabanı: MYSQL
+
+Kaan Sertel
+Programlama Dili: PHP, JS, JAVA
+Web tasarımı: HTML, CSS
+Veri Tabanı: MYSQL
+
+Nazlı Tuğba Gürsoy
+Programlama Dili: PHP, Node.js
+Web tasarımı: HTML, CSS
+Veri Tabanı: SQL
+
+Ömer Şahin
+
+ Takım Üyeleri Görevleri
+Aslıhan Akbulut: Staj Sorumlusu Frontend, Dokümantasyon
+Beyzanur Gürses: Firma Frontend, Dokümantasyon
+Elanur Başaran: Staj Sorumlusu Backend, Dokümantasyon
+İrem Sertel: Öğrenci Backend-Frontend,Dokümantasyon
+Kaan Sertel: Öğrenci Frontend,Dokümantasyon
+Nazlı Tuğba Gürsoy: Veritabanı Tasarımı, Dokümantasyon
+Ömer Şahin: Firma Backend, Dokümantasyon
+
