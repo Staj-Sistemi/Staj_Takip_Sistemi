@@ -70,4 +70,6 @@ Staj sisteminin dijitalleşmesi ile;
 ### Backend İçin Kullanılacak Yazılım Teknolojileri
 - NodeJs
 	- Node.js, açık kaynaklı, sunucu tarafında çalışan ve ağ bağlantılı uygulamalar için geliştirilmiş bir çalıştırma ortamıdır. Node.js uygulamaları genelde istemci tarafı betik dili olan JavaScript kullanılarak geliştirilir. Node.js, Google V8 JavaScript motorunu kullanarak betik dilini yorumlar ve içerisinde standart olarak dağıtılan kütüphaneler sayesinde ek bir sunucu yazılımına (Apache HTTP Sunucusu, Nginx, IIS vs.) gerek kalmadan uygulamanın Web sunucusu görevini görür.
+- MySQL 
+	- MySQL, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir.
 
