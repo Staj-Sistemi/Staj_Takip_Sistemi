@@ -32,39 +32,37 @@ Staj sisteminin dijitalleşmesi ile;
 	- Web tasarımı: HTML, CSS
 	- Veri Tabanı: MYSQL
 
-Beyzanur Gürses
-Programlama Dili: PHP, JS 
-Web tasarımı: HTML, CSS
-Veri Tabanı: MYSQL
+- Beyzanur Gürses
+	- Programlama Dili: PHP, Node.js
+	- Web tasarımı: HTML, CSS
+	- Veri Tabanı: MYSQL
 
-Elanur Başaran
-Programlama Dili: JS, PHP
-Web Tasarımı: HTML, CSS
-Veri Tabanı: MYSQL, POSTGRESQL
+- Elanur Başaran
+	- Programlama Dili: JS, PHP, Node.js
+	- Web Tasarımı: HTML, CSS
+	-Veri Tabanı: MYSQL, POSTGRESQL
 
-İrem Sertel
-		Programlama Dili: PHP, JS 
-Web tasarımı: HTML, CSS
-Veri Tabanı: MYSQL
+- İrem Sertel
+	- Programlama Dili: PHP, JS 
+	- Web tasarımı: HTML, CSS
+	- Veri Tabanı: MYSQL
 
-Kaan Sertel
-Programlama Dili: PHP, JS, JAVA
-Web tasarımı: HTML, CSS
-Veri Tabanı: MYSQL
+- Kaan Sertel
+	- Programlama Dili: PHP, JS, JAVA
+	- Web tasarımı: HTML, CSS
+	- Veri Tabanı: MYSQL
 
-Nazlı Tuğba Gürsoy
-Programlama Dili: PHP, Node.js
-Web tasarımı: HTML, CSS
-Veri Tabanı: SQL
+- Nazlı Tuğba Gürsoy
+	- Programlama Dili: PHP, Node.js
+	- Web tasarımı: HTML, CSS
+	- Veri Tabanı: SQL
 
-Ömer Şahin
-
- Takım Üyeleri Görevleri
-Aslıhan Akbulut: Staj Sorumlusu Frontend, Dokümantasyon
-Beyzanur Gürses: Firma Frontend, Dokümantasyon
-Elanur Başaran: Staj Sorumlusu Backend, Dokümantasyon
-İrem Sertel: Öğrenci Backend-Frontend,Dokümantasyon
-Kaan Sertel: Öğrenci Frontend,Dokümantasyon
-Nazlı Tuğba Gürsoy: Veritabanı Tasarımı, Dokümantasyon
-Ömer Şahin: Firma Backend, Dokümantasyon
+### Takım Üyeleri Görevleri
+- Aslıhan Akbulut: Staj Sorumlusu Frontend, Dokümantasyon
+- Beyzanur Gürses: Firma Frontend, Dokümantasyon
+- Elanur Başaran: Staj Sorumlusu Backend, Dokümantasyon
+- İrem Sertel: Öğrenci Backend-Frontend,Dokümantasyon
+- Kaan Sertel: Öğrenci Frontend,Dokümantasyon
+- Nazlı Tuğba Gürsoy: Veritabanı Tasarımı, Dokümantasyon
+- Ömer Şahin: Firma Backend, Dokümantasyon
 
