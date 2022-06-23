@@ -15,6 +15,9 @@
 - Nazlı Tuğba Gürsoy
 - Ömer Şahin
 
+### DEMO (Video)
+- [Video](https://github.com/Staj-Sistemi/Staj_Takip_Sistemi/blob/main/Grup6_Staj_Takip_Sistemi_SonDemo.rar)
+
 ### Proje Amacı
 
 Üniversite, öğrenci ve firma arasında iletişim sağlanarak her bir paydaşın staj işlemlerini dijitalleştirilebilmesini sağlamaktır.
